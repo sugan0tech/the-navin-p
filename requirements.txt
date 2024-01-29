@@ -1,3 +1,4 @@
 boto3
 slack-sdk>=3.12,<4
 python-dotenv
+bs4
